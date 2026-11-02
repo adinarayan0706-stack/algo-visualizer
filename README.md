@@ -1,4 +1,4 @@
-# Sorting Algorithm Visualizer
+# algo-visualizer
 
 An interactive sorting algorithm visualizer in Python. Watch six classic algorithms sort bars in real time, compare how many comparisons and writes each needs, and export any run as a GIF.
 
