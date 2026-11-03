@@ -17,9 +17,7 @@ An interactive sorting algorithm visualizer in Python. Watch six classic algorit
 
 ## Quick start
 
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+```bashgit clone https://github.com/adinarayan0706-stack/algo-visualizer.git
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
